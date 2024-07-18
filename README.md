@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqarmehmoodrana&label=Profile%20views&color=0e75b6&style=flat" alt="waqarmehmoodrana" /> </p>
 
-- 💬 Ask me about **MERN , React Native and Node.js**
+- 💬 Ask me about **Python, Javascript, MERN Stack, React Native and Node.js**
 
 - 📫 How to reach me **waqarmehmoodrana54@gmail.com**
 
